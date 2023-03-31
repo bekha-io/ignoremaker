@@ -23,3 +23,9 @@ ignoremaker
 ```shell
 2023/04/01 00:33:11 Done! 0.0163161 s.
 ```
+
+
+## Supporting files
+Now the command generates only these types of ignore files:
+1. `.gitignore`
+2. `.dockerignore`
